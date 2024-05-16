@@ -1,9 +1,17 @@
-rgb(228, 201, 233)
 
 ### 👋 Hi there! I'm David (aka drumm004)
 - 🔭 I’m currently working on Software Engineering with QuickStart
 - 🌱 I’m currently learning GITHUB
 - ⚡ Fun fact: I have died twice! 😲
+
+# To Reach Out
+email: david.s.rummel@gmail.com<br/>
+text: 1+ (865) 386-7722
+
+# Find Me
+[FaceBook](https://www.facebook.com/davidscott.rummel/)<br/>
+[LinkedIn](https://www.linkedin.com/in/davidscottrummel)
+
 
 
 <!--
