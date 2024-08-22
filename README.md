@@ -1,8 +1,19 @@
 
 ### 👋 Hi there! I'm David (aka drumm004)
-- 🔭 I’m currently working on Software Engineering with QuickStart
-- 🌱 I’m currently learning GITHUB
-- ⚡ Fun fact: I have died twice! 😲
+- 🔭 I am enrolled in Software Engineering Bootcamp with QuickStart
+- 🌱 I’m currently learning:
+  - GITHUB
+  - Visual Studio Code
+  - HTML 5
+  - CSS 3
+  - Bootstrap 5
+  - Java Script
+  - React
+  - Node.JS
+  - MySQL
+  - Express
+  
+⚡ Fun fact: I have died twice! 😲
 
 # To Reach Out
 email: david.s.rummel@gmail.com<br/>
